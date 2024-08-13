@@ -9,4 +9,4 @@ This is an analysis designed to track inventory from the purchase to sales with 
 The goal of the analysis is to:
  OLD MODEL                     |               NEW MODEL
  :---------------------:       |    :---------------------------:
- ![](warehouse_management.jpg)     ![](warehouse_management.jpg)
+ ![](warehouse_management.jpg) |    ![](warehouse_management.jpg)
